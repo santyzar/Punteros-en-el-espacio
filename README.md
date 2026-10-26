@@ -2,6 +2,7 @@
 Clon de Space Invaders en C puro y SDL2. Proyecto integrador para la materia Tópicos de Programación (UNLaM) enfocado en el manejo de memoria dinámica, aritmética de punteros y colisiones.
 
 Como compilar y jugar (CodeBlocks):
+Extraer en una carpeta el archivo Punteros-Al-Espacio_1
   1. Abrir Space_Invaders_SDL.cbp
   2. Build > Rebuild
   3. Run
